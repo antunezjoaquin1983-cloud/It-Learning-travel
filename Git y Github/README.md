@@ -9,5 +9,5 @@ Control de versiones y trabajo colaborativo.
 - Push y pull
 
 ## Estado
-🟡 En progreso
+ En progreso
 
