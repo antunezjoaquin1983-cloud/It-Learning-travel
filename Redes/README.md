@@ -9,4 +9,4 @@ Aprendizaje de conceptos fundamentales de redes informáticas.
 - Modelo OSI
 
 ## Estado
-⏳ Pendiente
+Pendiente
